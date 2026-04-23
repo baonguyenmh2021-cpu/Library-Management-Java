@@ -87,10 +87,3 @@ Trần Thị Hoàng My: Quản lý tài nguyên, module Sách/Độc giả và T
 Trần Thanh Hằng: Xử lý nghiệp vụ mượn trả, lịch sử và phiếu phạt.
 
 
-
-Ảnh Demo: GitHub hỗ trợ hiển thị ảnh rất tốt. Bạn nên chụp màn hình những chức năng "xịn" nhất như Tùy chỉnh giao diện hoặc Phiếu phạt tự động  để gây ấn tượng.
-+1
-
-Tên Repo: Bạn có thể đặt là Library-Management-Java-Swing.
-
-Bạn thấy mẫu này đã ổn để "lên sóng" chưa?
